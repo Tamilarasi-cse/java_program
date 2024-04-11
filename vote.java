@@ -1,6 +1,8 @@
+package vote;
+
 import java.io.IOException;
 import java.util.*;
- class vote 
+public class vote 
 {
     public static void main(String args[]) 
      {
